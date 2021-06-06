@@ -1,0 +1,25 @@
+
+
+cesta na ukladanie do github, kazydu vytvorenu class mozem 
+
+	1, $ git status
+
+	2,  $ git add 
+
+	3,  $ git commit -m "sprava"
+
+	4,  $ git push
+
+
+
+v power pointe
+
+5 - 15 min
+
+odprezentovat a vybrat temu cim skor
+
+po check ine bude li
+
+
+
+
